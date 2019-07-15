@@ -1,0 +1,17 @@
+{
+  "name": "fake-eml-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node eml.js --help"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "cuid": "^2.1.6",
+    "faker": "^4.1.0"
+  }
+}
